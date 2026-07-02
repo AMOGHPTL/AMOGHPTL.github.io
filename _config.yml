@@ -22,7 +22,7 @@ repository               : "AMOGHPTL/AMOGHPTL.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Amogh Patil"
   pronouns         :
   bio              : "Smart contract developer · Founder, RWA tokenization platform"

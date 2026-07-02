@@ -14,7 +14,7 @@ Built on the [AcademicPages](https://github.com/academicpages/academicpages.gith
 | Navigation bar | `_data/navigation.yml` |
 | Projects | `_portfolio/` |
 | Blog posts | `_posts/` |
-| Profile photo | `images/profile.png` (replace with your own) |
+| Profile photo | `images/profile.jpg` (replace with your own) |
 
 ## Publishing
 
